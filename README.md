@@ -66,6 +66,27 @@ Mail me at 👉 &nbsp;&nbsp;`aaditya.pyarla@gmail.com`
 
 ---
 
+<a href="#" align="right">
+  <img href="#" width="465" align="center" src="https://github-readme-stats.vercel.app/api?username=aadityapyarla1983024&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;
+
+
+
+<a href="#">
+  <img href="#" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapyarla1983024&langs_count=8&layout=compact&icon_color=79ff97&bg_color=30,30b7af,2841b7&title_color=fff&text_color=fff" />
+</a>
+
+<br/>
+<br/>
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
