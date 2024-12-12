@@ -73,10 +73,7 @@ Mail me at 👉 &nbsp;&nbsp;`aaditya.pyarla@gmail.com`
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;
+
 
 
 
