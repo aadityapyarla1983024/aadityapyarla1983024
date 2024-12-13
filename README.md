@@ -36,6 +36,8 @@ Mail me at 👉 &nbsp;&nbsp;`aaditya.pyarla@gmail.com`
 ### Languages and Tools:
 [<img href="#" alt="Visual Studio Code" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/120px-Arch_Linux_%22Crystal%22_icon.svg.png" />][youtube]
 &nbsp;
+[<img href="#" alt="Visual Studio Code" width="26" src="https://img.icons8.com/?size=48&id=40670&format=png" />][youtube]
+&nbsp;
 [<img href="#" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />][youtube]
 &nbsp;
 [<img href="#" alt="Visual Studio Code" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][youtube]
