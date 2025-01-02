@@ -1,19 +1,13 @@
-<img href="#" width="100%" height="auto" src="svg.png" />
-
-### Hello World, I'm Aaditya  👋  - aka **Crazy Coder**
+<img src="svg.png" width="100%" height="auto" style="margin-bottom: 20px;"/>
 
 
 
-<img href="#" align="right" alt="GIF" src="https://image.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" width="500" height="auto" />
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+## Hello World, I'm Aaditya 👋 - aka **Crazy Coder**
 
+### I'm a Student, Developer!! 🖐️
 
-
-## I'm a Student, Developer!! 🖐️
+<img src="https://image.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" align="right" alt="GIF" width="500" height="auto" />
 
 
 - ✍ You can find my projects here
@@ -21,20 +15,25 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about C++ ...Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 4 languages ( English, Telugu, Hindi, Marathi )
-
+- ⚡ Fun fact: I speak 4 languages (English, Telugu, Hindi, Marathi)
+  
 
 ### Talk to me, I'm kinda awesome:
-Mail me at 👉 &nbsp;&nbsp;`aaditya.pyarla@gmail.com`
+Mail me at 👉 `aaditya.pyarla@gmail.com`
 
-<hr>
+---
 
 ### Current Situation 😁
-```Learning C++ to ace at Competetive Programming and attending my college too... 😆 ```
 
+```plaintext
+Learning C++ to ace at Competetive Programming and attending my college too... 😆
+Working on a project of my own, pretty excited 😎
+```
 
 ### Languages and Tools:
 [<img href="#" alt="Visual Studio Code" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/120px-Arch_Linux_%22Crystal%22_icon.svg.png" />][youtube]
+&nbsp;
+[<img href="#" alt="Visual Studio Code" width="26" src="https://img.icons8.com/?size=100&id=47039&format=png&color=000000" />][youtube]
 &nbsp;
 [<img href="#" alt="Visual Studio Code" width="26" src="https://img.icons8.com/?size=48&id=40670&format=png" />][youtube]
 &nbsp;
