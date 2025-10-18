@@ -11,9 +11,9 @@
 
 
 - ✍ You can find my projects here
-- 🌱 I’m currently learning C++ and SQL
+- 🌱 I’m currently learning React, Node and MySQL
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about C++ ...Anything
+- 💬 Ask me about Java ...Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages (English, Telugu, Hindi, Marathi)
   
@@ -26,8 +26,8 @@ Mail me at 👉 `aaditya.pyarla@gmail.com`
 ### Current Situation 😁
 
 ```plaintext
-Learning C++ to ace at Competetive Programming and attending my college too... 😆
-Working on a project of my own, pretty excited 😎
+Learning React, NodeJs and MySQL alongside building a personal project
+Too much excited to see it work 😎
 ```
 
 ### Languages and Tools:
