@@ -12,13 +12,13 @@
 
 - ✍ You can find my projects here
 - 🌱 I’m currently learning React, Node and MySQL
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on a project 
 - 💬 Ask me about Java ...Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages (English, Telugu, Hindi, Marathi)
   
 
-### Talk to me, I'm kinda awesome:
+### Let's have a talk, I'm kinda awesome:
 Mail me at 👉 `aaditya.pyarla@gmail.com`
 
 ---
