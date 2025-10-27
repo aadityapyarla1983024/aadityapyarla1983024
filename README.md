@@ -96,7 +96,7 @@ Feel free to visit and comment here <a href="https://sundaystack.odoo.com/">Clic
 <p align="center">
   
 <a href="#" align="right">
-  <img href="#" width="465" align="center" src="https://github-readme-stats.vercel.app/api?username=aadityapyarla1983024&show_icons=true&theme=gruvbox_light&include_all_commits=true" />
+  <img href="#" width="465" align="center" src="https://github-readme-stats.vercel.app/api?username=aadityapyarla1983024&show_icons=true&theme=gruvbox_light" />
 </a>
 &nbsp;
 &nbsp;
